@@ -6,7 +6,7 @@ Você deve criar um sistema para calcular o valor total de um pedido, consideran
 
 Sua solução deverá seguir as seguintes especificações:
 
-################################################################################################
+#######################################################################################
 
 Um pedido deve ser representado por um objeto conforme projeto abaixo:
 
